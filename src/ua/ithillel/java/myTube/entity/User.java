@@ -1,6 +1,6 @@
-package ua.ithillel.java.entity;
+package ua.ithillel.java.myTube.entity;
 
-import ua.ithillel.java.api.Subscriber;
+import ua.ithillel.java.myTube.api.Subscriber;
 
 public abstract class User implements Subscriber {
 	

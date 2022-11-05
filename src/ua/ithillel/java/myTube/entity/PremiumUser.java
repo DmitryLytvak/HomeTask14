@@ -1,4 +1,4 @@
-package ua.ithillel.java.entity;
+package ua.ithillel.java.myTube.entity;
 
 public class PremiumUser extends User {
 	

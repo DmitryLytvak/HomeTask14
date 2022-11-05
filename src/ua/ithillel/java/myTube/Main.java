@@ -1,12 +1,12 @@
-package ua.ithillel.java;
+package ua.ithillel.java.myTube;
 
-import ua.ithillel.java.entity.DefaultUser;
-import ua.ithillel.java.entity.PremiumUser;
-import ua.ithillel.java.entity.User;
-import ua.ithillel.java.entity.Video;
-import ua.ithillel.java.service.Channel;
+import ua.ithillel.java.myTube.entity.DefaultUser;
+import ua.ithillel.java.myTube.entity.PremiumUser;
+import ua.ithillel.java.myTube.entity.User;
+import ua.ithillel.java.myTube.entity.Video;
+import ua.ithillel.java.myTube.service.Channel;
 
-public class MyTube {
+public class Main {
 	
 	public static void main(String[] args) {
 		Channel channel = new Channel(0);

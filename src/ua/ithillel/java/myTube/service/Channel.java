@@ -1,12 +1,12 @@
-package ua.ithillel.java.service;
+package ua.ithillel.java.myTube.service;
 
 import java.util.ArrayList;
 import java.util.List;
-import ua.ithillel.java.api.Publisher;
-import ua.ithillel.java.api.Subscriber;
-import ua.ithillel.java.entity.Update;
-import ua.ithillel.java.entity.User;
-import ua.ithillel.java.entity.Video;
+import ua.ithillel.java.myTube.api.Publisher;
+import ua.ithillel.java.myTube.api.Subscriber;
+import ua.ithillel.java.myTube.entity.Update;
+import ua.ithillel.java.myTube.entity.User;
+import ua.ithillel.java.myTube.entity.Video;
 
 public class Channel implements Publisher {
 	
